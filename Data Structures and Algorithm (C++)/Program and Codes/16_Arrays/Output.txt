@@ -1,0 +1,4 @@
+Enter the size of array
+Enter the elements of array
+Enter the value of the key to be searched
+Index value of the entered key is -1

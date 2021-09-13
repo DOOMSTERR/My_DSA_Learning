@@ -1,0 +1,7 @@
+Enter size of 180 degree rotated half pyramid
+     @
+    @@
+   @@@
+  @@@@
+ @@@@@
+@@@@@@

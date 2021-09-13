@@ -1,0 +1,10 @@
+Enter the size of the array 
+Enter the elements of the array 
+Sorted array is 
+2 
+5 
+6 
+10 
+14 
+25 
+60 

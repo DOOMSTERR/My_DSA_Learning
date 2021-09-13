@@ -1,0 +1,10 @@
+1.) Sum of first N natural nos.
+2.) Check Pythagorian triplet.
+3.) Conversions
+    - Binary to Decimal
+    - Octal to Decimal
+    - Hexadecimal to Decimal
+    - Decimal to Binary
+    - Decimal to Octal
+    - Decimal to Hexadecimal
+4.) Add two Binary nos.

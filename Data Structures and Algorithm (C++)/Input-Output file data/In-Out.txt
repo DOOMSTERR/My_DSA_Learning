@@ -1,0 +1,16 @@
+CODE BELOW COMES AFTER 
+
+void main(){
+>
+>
+>
+
+#ifndef ONLINE_JUDGE
+    freopen("Input.txt", "r", stdin);
+    freopen("Output.txt", "w", stdout);
+#endif
+
+>
+>
+>
+// for inputing and outputing of inputs //
