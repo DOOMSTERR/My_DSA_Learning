@@ -1,16 +1,20 @@
-CODE BELOW COMES AFTER 
+CODE BELOW COMES INSIDE VOID MAIN
 
 void main(){
->
->
->
+
+// this code here is used for Vs-Code ONLINE_JUDGE which help debug, take input, and give output, in a proper manner maintaining clean enviroment.
+// check the image in this folder for better understanding.
+
 
 #ifndef ONLINE_JUDGE
     freopen("Input.txt", "r", stdin);
     freopen("Output.txt", "w", stdout);
 #endif
 
->
->
->
-// for inputing and outputing of inputs //
+// for inputing and outputing of inputs 
+
+
+//your program/code will comes here.
+
+  return 0;
+}
